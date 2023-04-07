@@ -1,0 +1,462 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "OpenPH/math/algebra",
+					"jsonFile" : "directory-OpenPH.math.algebra-Debug-f31cb4e7388854c67c94.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "OpenPH/math/algebra",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "OpenPH/math/mathlist",
+					"jsonFile" : "directory-OpenPH.math.mathlist-Debug-79b42af9bddc907b8260.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "OpenPH/math/mathlist",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "OpenPH/phys/physlist",
+					"jsonFile" : "directory-OpenPH.phys.physlist-Debug-f9995ed32e1bbdc37252.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "OpenPH/phys/physlist",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "Module-Math/graph",
+					"jsonFile" : "directory-Module-Math.graph-Debug-0948142a99c4331e8126.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Module-Math/graph",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Module-Math/fdm",
+					"jsonFile" : "directory-Module-Math.fdm-Debug-74e28e662f49c0b15983.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Module-Math/fdm",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Module-Math/selector",
+					"jsonFile" : "directory-Module-Math.selector-Debug-61823e42b5f745fc157d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Module-Math/selector",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "Module-Math/time",
+					"jsonFile" : "directory-Module-Math.time-Debug-9fb3b212018dd58fdf24.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Module-Math/time",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Module-MAC/agent",
+					"jsonFile" : "directory-Module-MAC.agent-Debug-90a9fc4f2662b1283d12.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "Module-MAC/agent",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Module-MAC/network",
+					"jsonFile" : "directory-Module-MAC.network-Debug-1a07d12a4f1805cee8f9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "Module-MAC/network",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "Module-MAC/protocol",
+					"jsonFile" : "directory-Module-MAC.protocol-Debug-f0ce95b660c6acafe83d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "Module-MAC/protocol",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "Module-MAC/mas",
+					"jsonFile" : "directory-Module-MAC.mas-Debug-1a39b9a98c6c5e247954.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 11,
+					"source" : "Module-MAC/mas",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OpenSynch-6",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "algebra",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "mathlsit",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "physlist",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "graph",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "fdm",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "selector",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "time",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "agent",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "network",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "protocol",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "mas",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 8,
+					"id" : "agent::@9a9cac1d737737025f65",
+					"jsonFile" : "target-agent-Debug-4982896bba25a1a37f15.json",
+					"name" : "agent",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "algebra::@12c8a26fac8be3869b53",
+					"jsonFile" : "target-algebra-Debug-c11ce12e5fb7a002941a.json",
+					"name" : "algebra",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "fdm::@dd8528fced6ec74b1937",
+					"jsonFile" : "target-fdm-Debug-bf60bd4b57f7024140b4.json",
+					"name" : "fdm",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "graph::@61b2c0bde69df9bf0626",
+					"jsonFile" : "target-graph-Debug-1aaaec0931c107f06379.json",
+					"name" : "graph",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-7d3c247543e0159860ad.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "mas::@0ba79939fc775d88f0b8",
+					"jsonFile" : "target-mas-Debug-b607abdf9d3d0c257217.json",
+					"name" : "mas",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "mathlist::@e14bc740fdf9e88c8dd3",
+					"jsonFile" : "target-mathlist-Debug-aab9b929aba434d97757.json",
+					"name" : "mathlist",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "network::@960fdf9dd718d4adc19b",
+					"jsonFile" : "target-network-Debug-45956d81e38326100477.json",
+					"name" : "network",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "physlist::@b1ea09b9fd2d3db246a6",
+					"jsonFile" : "target-physlist-Debug-0c8774cec9298c7dbde9.json",
+					"name" : "physlist",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "protocol::@734cc25f025008bb8240",
+					"jsonFile" : "target-protocol-Debug-9be15c98d003aaf10008.json",
+					"name" : "protocol",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "selector::@bbe032ffddecc6282e74",
+					"jsonFile" : "target-selector-Debug-fa9bacd888a927206332.json",
+					"name" : "selector",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "time::@0395e52fd6d5d810628b",
+					"jsonFile" : "target-time-Debug-e75c517297728ecad46b.json",
+					"name" : "time",
+					"projectIndex" : 7
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Cpp-Projects/OpenSynch-6/cmake-build-debug",
+		"source" : "C:/Cpp-Projects/OpenSynch-6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

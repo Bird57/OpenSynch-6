@@ -1,0 +1,263 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "Module-MAC/agent/libagent.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"INCLUDE_DIRECTORIES",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"Module-MAC/agent/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 22,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Cpp-Projects/OpenSynch-6/cmake-build-debug/Module-MAC/agent"
+				},
+				{
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-MAC/agent"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Program Files/Eigen3"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/OpenPH/math/algebra/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/OpenPH/math/mathlist/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/OpenPH/phys/physlist/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/graph/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/fdm/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/selector/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/time/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-MAC/agent/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-MAC/network/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-MAC/protocol/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-MAC/mas/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"id" : "agent::@9a9cac1d737737025f65",
+	"name" : "agent",
+	"nameOnDisk" : "libagent.a",
+	"paths" : 
+	{
+		"build" : "Module-MAC/agent",
+		"source" : "Module-MAC/agent"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "Module-MAC/agent/include/agent.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-MAC/agent/include/mathagent.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-MAC/agent/include/collective.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-MAC/agent/src/agent.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-MAC/agent/src/mathagent.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-MAC/agent/src/collective.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

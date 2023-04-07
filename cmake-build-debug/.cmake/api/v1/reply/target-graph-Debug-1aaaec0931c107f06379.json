@@ -1,0 +1,307 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "Module-Math/graph/libgraph.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"INCLUDE_DIRECTORIES",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"Module-Math/graph/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 22,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Cpp-Projects/OpenSynch-6/cmake-build-debug/Module-Math/graph"
+				},
+				{
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/graph"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Program Files/Eigen3"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/OpenPH/math/algebra/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/OpenPH/math/mathlist/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/OpenPH/phys/physlist/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/graph/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/fdm/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/selector/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Cpp-Projects/OpenSynch-6/Module-Math/time/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		}
+	],
+	"id" : "graph::@61b2c0bde69df9bf0626",
+	"name" : "graph",
+	"nameOnDisk" : "libgraph.a",
+	"paths" : 
+	{
+		"build" : "Module-Math/graph",
+		"source" : "Module-Math/graph"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/edge.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/staticedge.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/vertex.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/graph.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/undirectedge.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/graphgenerator.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/circlegraph.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/wattsstrogatzgraph.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Module-Math/graph/include/linegraph.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/edge.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/staticedge.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/vertex.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/graph.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/undirectedge.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/graphgenerator.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/circlegraph.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/wattsstrogatzgraph.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Module-Math/graph/src/linegraph.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
